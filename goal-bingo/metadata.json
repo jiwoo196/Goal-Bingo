@@ -1,5 +1,0 @@
-{
-  "name": "Goal Bingo",
-  "description": "A visually stunning goal tracking application based on a bingo board system. Set your grid size, define goal types (General, Count, or Habit), and celebrate your achievements with a gamified interface.",
-  "requestFramePermissions": []
-}
